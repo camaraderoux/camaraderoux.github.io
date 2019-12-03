@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+# Bonjour voici mon site parce que je suis egocentrique
+## Voici les lien de mes différents réseaux sociaux
+[Link](https://www.facebook.com/) and ![Image](src)
+[Link](https://www.facebook.com/) and ![Image](src)
 
-You can use the [editor on GitHub](https://github.com/camaraderoux/camaraderoux.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
