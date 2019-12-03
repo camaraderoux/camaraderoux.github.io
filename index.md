@@ -1,8 +1,7 @@
 # Bonjour voici mon site parce que je suis egocentrique
 ## Voici les lien de mes différents réseaux sociaux
 [Facebook](https://www.facebook.com/)
-[Linkedin](https://www.linkedin.com/feed/) and ![Image](src)
-
+[Linkedin](https://www.linkedin.com/feed/)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
