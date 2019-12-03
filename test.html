@@ -35,4 +35,14 @@
     <label><input name="terms" type="checkbox" value="tandc" />Accept terms</label> <br />
     <input type="submit" value="Submit" />
 </form>
+<script src="//code.jquery.com/jquery.js"></script>
+ <script src="//cdn.rawgit.com/hilios/jQuery.countdown/2.2.0/dist/jquery.countdown.min.js"></script>
+
+<script type="text/javascript">
+  // 15 days from now!
+  var date = new Date(new Date().valueOf() + 15 * 24 * 60 * 60 * 1000);
+  $('#clock').countdown(date, function(event) {
+    $(this).html(event.strftime('%D days %H:%M:%S'));
+  });
+</script>
 </html>
