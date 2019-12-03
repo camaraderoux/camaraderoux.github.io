@@ -1,7 +1,7 @@
 # Bonjour voici mon site parce que je suis egocentrique
 ## Voici les lien de mes différents réseaux sociaux
-[Link](https://www.facebook.com/) and ![Image](src)
-[Link](https://www.facebook.com/) and ![Image](src)
+[Facebook](https://www.facebook.com/)
+[Linkedin](https://www.linkedin.com/feed/) and ![Image](src)
 
 
 
